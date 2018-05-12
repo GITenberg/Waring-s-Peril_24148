@@ -1,0 +1,27 @@
+_repo: Waring-s-Peril_24148
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: King, Charles
+    birthdate: 1844
+    deathdate: 1933
+    gutenberg_agent_id: '6787'
+    url: http://www.gutenberg.org/2009/agents/6787
+description: ''
+gutenberg_issued: '2008-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24148'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- 19th century -- Fiction'
+- !lcc 'PS'
+- !lcsh 'United States. Army. Cavalry -- Fiction'
+title: Waring's Peril
+url: http://www.gutenberg.org/ebooks/24148
